@@ -1,0 +1,3 @@
+LIBRARY read_csv_corte.pyd
+EXPORTS
+initread_csv_corte
